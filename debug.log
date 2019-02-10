@@ -1,0 +1,2 @@
+[0210/203540.459:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Ingen tilgang. (0x5)
+[0210/220227.965:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\temp\settings.dat: Ingen tilgang. (0x5)
